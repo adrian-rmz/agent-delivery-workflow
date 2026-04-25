@@ -30,6 +30,26 @@ _delivery/reviews/
 
 For feature work, `/spec` creates or switches to `delivery/feature/<slug>` when the git repository is clean.
 
+## Installation
+
+Install from GitHub with the Skills CLI:
+
+```bash
+npx skills add adrian-rmz/agent-delivery-workflow
+```
+
+Install globally for Codex without prompts:
+
+```bash
+npx skills add adrian-rmz/agent-delivery-workflow --skill agent-delivery-workflow -g -a codex -y
+```
+
+List the skill without installing:
+
+```bash
+npx skills add adrian-rmz/agent-delivery-workflow --list
+```
+
 ## Commands
 
 - `/setup-project` initializes persistent delivery context.
