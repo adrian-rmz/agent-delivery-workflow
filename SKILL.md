@@ -1,6 +1,6 @@
 ---
 name: agent-delivery-workflow
-description: Full software delivery workflow for AI coding agents. Use when the user invokes /setup-project, /idea, /spec, /design, /plan, /implement, /review, /status, or /commit-message; asks for Spec Driven Development; wants project setup, feature shaping, implementation planning, execution, review, or commit support.
+description: Full software delivery workflow for AI coding agents. Use when the user invokes /setup-project, /idea, /spec, /design, /plan, /implement, /review, /status, or /commit-message; asks for a spec-driven workflow; wants project setup, feature shaping, implementation planning, execution, review, or commit support.
 ---
 
 # Agent Delivery Workflow
