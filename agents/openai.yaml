@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Delivery Workflow"
+  short_description: "Plan, build, review, and ship features"
+  default_prompt: "Use $agent-delivery-workflow to set up delivery context, shape a feature, create a spec, plan implementation, review changes, or draft a commit message."
+
+policy:
+  allow_implicit_invocation: true
